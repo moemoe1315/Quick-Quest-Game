@@ -27,6 +27,6 @@ The game is built with Unity and exported to WebGL to run in modern web browsers
 
 ## Feedback
 
-I appreciate your feedback! If you encounter any issues, or if you have suggestions for improvements, please open an issue in this repository.
+We appreciate your feedback! If you encounter any issues, or if you have suggestions for improvements, please open an issue in this repository.
 
 Enjoy playing Quick Quest!
