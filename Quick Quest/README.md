@@ -6,7 +6,7 @@ Welcome to the Quick Quest Game repository! This project contains the files nece
 
 To play Quick Quest Game, simply visit the GitHub Pages URL for this repository. The game will load in your browser—no additional downloads or installations needed!
 
-[Play Quick Quest Game](https://<your-github-username>.github.io/Quick-Quest-Game/)
+[Play Quick Quest Game](https://moemoe1315.github.io/Quick-Quest-Game/)
 
 Replace `<your-github-username>` with your actual GitHub username to form the correct URL.
 
