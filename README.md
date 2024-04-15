@@ -16,8 +16,8 @@ Quick Quest is an epic adventure game where you navigate through various levels,
 ## Controls
 
 - **Arrow keys** to move.
-- **Spacebar** to attack.
-- **M** to mute the sound.
+- **Spacebar** to jump.
+- **Enter or Left Click** to attack
 
 Adjust your browser zoom settings if the game does not fit your screen correctly.
 
