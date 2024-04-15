@@ -8,7 +8,6 @@ To play Quick Quest Game, simply visit the GitHub Pages URL for this repository.
 
 [Play Quick Quest Game](https://moemoe1315.github.io/Quick-Quest-Game/)
 
-Replace `<your-github-username>` with your actual GitHub username to form the correct URL.
 
 ## About the Game
 
